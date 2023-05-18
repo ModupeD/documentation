@@ -112,6 +112,7 @@ const sidebars = {
             },
               items: [
                 'dev-docs/deployment/amazon-aws',
+                'dev-docs/deployment/flightcontrol',
                 'dev-docs/deployment/azure',
                 'dev-docs/deployment/digitalocean-app-platform',
                 'dev-docs/deployment/digitalocean',
