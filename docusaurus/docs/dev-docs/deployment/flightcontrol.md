@@ -11,8 +11,8 @@ The purpose of this guide is to allow users to deploy Strapi applications to AWS
 
 :::prerequisites
 
-* A [Strapi project](/dev-docs/quick-start).
-* Read through Strapi's [configuration documentation](/dev-docs/deployment#application-configuration).
+* A [Strapi project](/dev-docs/quick-start)
+* Read through Strapi's [configuration documentation](/dev-docs/deployment#application-configuration)
 * A [Flightcontrol account](https://app.flightcontrol.dev/signup?ref=strapi)
 * An [AWS account](https://signin.aws.amazon.com/signin?redirect_uri=https%3A%2F%2Fus-east-1.console.aws.amazon.com%2Fbilling%2Fhome%3Fregion%3Dus-east-1%26state%3DhashArgs%2523%252Faccount%253Fnc2%253Dh_m_ma%26isauthcode%3Dtrue&client_id=arn%3Aaws%3Aiam%3A%3A934814114565%3Auser%2Fportal-aws-auth&forceMobileApp=0&code_challenge=hV6nNzYNHmki5JweiiVQcoLxr0WxjqXpVF4Lsh2NXxM&code_challenge_method=SHA-256)
 * A [Git version control](https://docs.github.com/en/get-started/quickstart/set-up-git)
